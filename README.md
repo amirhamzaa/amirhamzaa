@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir Hamza</h1>
 
-I am Amir Hamza Al,I am currently pursuing my Bachelors in computer science from Cambrian University](https://www.amithamza.xyz/). I am a tech enthusiast & a self learner.
+I am Amir Hamza,I am currently pursuing my Bachelors in computer science from Cambrian University](https://www.amithamza.xyz/). I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 

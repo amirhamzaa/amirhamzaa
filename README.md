@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amir Hamza</h1>
 
-I am Amir Hamza,I am currently pursuing my SSC in group of science from Cambrian. I am a tech enthusiast & a self learner.
+I am Amir Hamza,I am currently pursuing my HSC in group of science. I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
-- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
-- 🙄 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Mern **
-- 🥅 2021 Goals: To be profficient in MERN Stack :|
-- ⚡ Fun fact: I love taking photos, playing video games.
+-  I’m currently learning ** Mern Stack, REST API, and MongoDB **
+-  I’m looking to collaborate on Web Development Related Projects **
+-  I’m looking for help with Mern **
 
 <p align="center">
     <a href="https://github.com/amirhamzaa">
@@ -83,7 +81,7 @@ I am Amir Hamza,I am currently pursuing my SSC in group of science from Cambrian
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
     
-## 😂 Here is a random joke that'll make you laugh!
+## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">

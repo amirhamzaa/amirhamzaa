@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amir Hamza</h1>
 
-I am Amir Hamza,I am currently pursuing my HSC in group of science. I am a tech enthusiast & a self learner.
+I am Amir Hamza,I am studying CSE at IUBAT.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
--  I’m currently learning C Programming **
--  I’m looking to collaborate on Web Development Related Projects **
-
+-  I’m currently learning C Programming, C++, Basic Javva and Python **
 
 <h4> Operating System </h4>
 <span>

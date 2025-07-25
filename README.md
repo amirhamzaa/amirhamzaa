@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir Hamza</h1>
 
-I am Amir Hamza,I am studying CSE at IUBAT.
+I am studying CSE at IUBAT.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 

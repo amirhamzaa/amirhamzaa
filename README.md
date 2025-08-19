@@ -4,7 +4,7 @@ I am studying CSE at IUBAT.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
--  I’m currently learning C Programming, C++, Basic Javva and Python **
+-  I’m currently learning C Programming, C++, Basic Javva and Python 
 
 <h4> Operating System </h4>
 <span>
